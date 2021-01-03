@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+First issue, file, branch and pull request
 Use the left arrow to go back!
